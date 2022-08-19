@@ -16,6 +16,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <modules>
+        <module>HomeWork_3</module>
+    </modules>
+
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
